@@ -1,5 +1,5 @@
-# title: Welcome to the IntutiveBrain’s homepage!
-## description: Keep visiting my site for updates!!
+# Welcome to the IntutiveBrain’s homepage!
+## Keep visiting my site for updates!!
 
 ## Welcome to GitHub Pages
 
